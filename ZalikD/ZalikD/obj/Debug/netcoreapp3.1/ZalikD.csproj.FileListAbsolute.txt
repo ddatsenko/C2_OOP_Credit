@@ -1,0 +1,26 @@
+F:\OOP\ZalikD\ZalikD\bin\Debug\netcoreapp3.1\ZalikD.exe
+F:\OOP\ZalikD\ZalikD\bin\Debug\netcoreapp3.1\ZalikD.deps.json
+F:\OOP\ZalikD\ZalikD\bin\Debug\netcoreapp3.1\ZalikD.runtimeconfig.json
+F:\OOP\ZalikD\ZalikD\bin\Debug\netcoreapp3.1\ZalikD.runtimeconfig.dev.json
+F:\OOP\ZalikD\ZalikD\bin\Debug\netcoreapp3.1\ZalikD.dll
+F:\OOP\ZalikD\ZalikD\bin\Debug\netcoreapp3.1\ZalikD.pdb
+F:\OOP\ZalikD\ZalikD\obj\Debug\netcoreapp3.1\ZalikD.csprojAssemblyReference.cache
+F:\OOP\ZalikD\ZalikD\obj\Debug\netcoreapp3.1\ZalikD.AssemblyInfoInputs.cache
+F:\OOP\ZalikD\ZalikD\obj\Debug\netcoreapp3.1\ZalikD.AssemblyInfo.cs
+F:\OOP\ZalikD\ZalikD\obj\Debug\netcoreapp3.1\ZalikD.csproj.CoreCompileInputs.cache
+F:\OOP\ZalikD\ZalikD\obj\Debug\netcoreapp3.1\ZalikD.dll
+F:\OOP\ZalikD\ZalikD\obj\Debug\netcoreapp3.1\ZalikD.pdb
+F:\OOP\ZalikD\ZalikD\obj\Debug\netcoreapp3.1\ZalikD.genruntimeconfig.cache
+C:\Users\Денис\Downloads\Telegram Desktop\ZalikD\ZalikD\ZalikD\bin\Debug\netcoreapp3.1\ZalikD.exe
+C:\Users\Денис\Downloads\Telegram Desktop\ZalikD\ZalikD\ZalikD\bin\Debug\netcoreapp3.1\ZalikD.deps.json
+C:\Users\Денис\Downloads\Telegram Desktop\ZalikD\ZalikD\ZalikD\bin\Debug\netcoreapp3.1\ZalikD.runtimeconfig.json
+C:\Users\Денис\Downloads\Telegram Desktop\ZalikD\ZalikD\ZalikD\bin\Debug\netcoreapp3.1\ZalikD.runtimeconfig.dev.json
+C:\Users\Денис\Downloads\Telegram Desktop\ZalikD\ZalikD\ZalikD\bin\Debug\netcoreapp3.1\ZalikD.dll
+C:\Users\Денис\Downloads\Telegram Desktop\ZalikD\ZalikD\ZalikD\bin\Debug\netcoreapp3.1\ZalikD.pdb
+C:\Users\Денис\Downloads\Telegram Desktop\ZalikD\ZalikD\ZalikD\obj\Debug\netcoreapp3.1\ZalikD.csprojAssemblyReference.cache
+C:\Users\Денис\Downloads\Telegram Desktop\ZalikD\ZalikD\ZalikD\obj\Debug\netcoreapp3.1\ZalikD.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Downloads\Telegram Desktop\ZalikD\ZalikD\ZalikD\obj\Debug\netcoreapp3.1\ZalikD.AssemblyInfoInputs.cache
+C:\Users\Денис\Downloads\Telegram Desktop\ZalikD\ZalikD\ZalikD\obj\Debug\netcoreapp3.1\ZalikD.AssemblyInfo.cs
+C:\Users\Денис\Downloads\Telegram Desktop\ZalikD\ZalikD\ZalikD\obj\Debug\netcoreapp3.1\ZalikD.dll
+C:\Users\Денис\Downloads\Telegram Desktop\ZalikD\ZalikD\ZalikD\obj\Debug\netcoreapp3.1\ZalikD.pdb
+C:\Users\Денис\Downloads\Telegram Desktop\ZalikD\ZalikD\ZalikD\obj\Debug\netcoreapp3.1\ZalikD.genruntimeconfig.cache
