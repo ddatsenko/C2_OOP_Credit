@@ -1,8 +1,8 @@
 ﻿namespace ZalikD
 {
-    public class Numerals:Rows
+    public class Numbers:Rows
     {
-        public Numerals(string row) : base(row)
+        public Numbers(string row) : base(row)
         {
         }
 
